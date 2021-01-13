@@ -6,7 +6,7 @@ tags:
   - игры
 ---
 
-![Homeworld](../assets/images/homeworld1.jpg){:class="img-responsive"}
+![Homeworld](https://github.com/dgorpinchuk/blog/tree/master/assets/images/homeworld1.jpg){:class="img-responsive"}
 
 Рад представить вам добротный обзор одной из своей самой любимой стратегии Homeworld Remastered. Написано с душой горячим поклонником серии, и хотя с отдельными моментами можно и не согласиться, однозначно рекомендую к прочтению.
 
