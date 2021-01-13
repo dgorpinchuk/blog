@@ -1,5 +1,5 @@
 ---
-title: "Посты по годам"
+title: "Выберите год:"
 permalink: /posts/
 layout: posts
 author_profile: true
