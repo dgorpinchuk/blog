@@ -20,6 +20,7 @@ twitter_username: dimon92
 github_username: dgorpinchuk
 minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
+logo: 
 
 # Build settings
 locale: "ru-RU"
@@ -94,7 +95,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: true # true to enable comment in all post
       share: true
       related: true
   # _pages
@@ -111,3 +112,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "dgorpinchuk"
