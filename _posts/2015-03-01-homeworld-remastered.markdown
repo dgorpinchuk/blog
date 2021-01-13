@@ -1,5 +1,6 @@
 ---
 title: "Родной Мир. Переиздание. (Homeworld Remastered)"
+excerpt_separator: "<!--more-->"
 categories:
   - обзоры
 tags:
@@ -7,6 +8,8 @@ tags:
 ---
 
 Рад представить вам добротный обзор одной из своей самой любимой стратегии Homeworld Remastered. Написано с душой горячим поклонником серии, и хотя с отдельными моментами можно и не согласиться, однозначно рекомендую к прочтению.
+
+<!--more-->
 
 ![Homeworld](/blog/assets/images/homeworld1.jpg){:class="img-responsive"}
 
