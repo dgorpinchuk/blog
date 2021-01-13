@@ -13,18 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+title: Обычный блог обычного юзера
+email: dgorpinchuk@gmail.com
+description: Я разрабатываю проекты в вебе, а также занимаюсь фронт-эндом.
+twitter_username: dimon92
+github_username: dgorpinchuk
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 
 # Build settings
+locale: "ru-RU"
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
@@ -58,34 +56,34 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Dmitry Gorpinchuk"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Я разрабатываю проекты в вебе, а также занимаюсь фронт-эндом"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "Telegram"
+      icon: "fab fa-fw fa-telegram"
+      url: "https://t.me/Gorpinchuk"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://twitter.com/dimon92/"
+    - label: "ВКонтакте"
+      icon: "fab fa-fw fa-vk"
+      url: "https://vk.com/gorpinchuk/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/dgorpinchuk/"
 
 footer:
   links:
+    - label: "Telegram"
+      icon: "fab fa-fw fa-telegram"
+      url: "https://t.me/Gorpinchuk"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://twitter.com/dimon92/"
+    - label: "ВКонтакте"
+      icon: "fab fa-fw fa-vk"
+      url: "https://vk.com/gorpinchuk/"
 
 defaults:
   # _posts
