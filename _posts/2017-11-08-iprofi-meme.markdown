@@ -7,11 +7,9 @@ tags:
   - мемы
 ---
 
-**Дисклеймер:** *Before you diagnose yourself with depression or low self-esteem, first make sure that you are not, in fact, just surrounded by assholes.*
-
-<!--more-->
-
 ![Facepalm](/blog/assets/images/iprofi-facepalm.jpg){:class="img-responsive"}
+
+**Дисклеймер:** *Before you diagnose yourself with depression or low self-esteem, first make sure that you are not, in fact, just surrounded by assholes.*
 
 Оригинальная орфография и пунктуация сохранены, все личные данные заменены или удалены.
 
