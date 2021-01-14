@@ -13,7 +13,7 @@ Frontend-разработка и веб-дизайн
 Two Steps From Hell, Audiomachine, Thomas Bergersen, Nightwish, Blackmore's Night, Miracle Of Sound, Within Temptation, Imagine Dragons, Powerwolf
 
 - **Любимые фильмы:**
-[Профиль на Кинопоиске](https://mykp.ru/dgorpinchuk){: .btn .btn--primary }
+[Профиль на Кинопоиске](https://mykp.ru/dgorpinchuk){: .btn .btn--warning}
 
 - **Любимые сериалы:**
 Star Trek, Expanse, Person of Interest, Black Mirror
