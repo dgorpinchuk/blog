@@ -2,7 +2,7 @@
 title: Безумный Макс. Жевачка для глаз.
 excerpt_separator: "<!--more-->"
 categories:
-  - обзоры
+  - Обзоры
 tags:
   - фильмы
 ---

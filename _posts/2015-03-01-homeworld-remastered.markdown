@@ -2,7 +2,7 @@
 title: "Родной Мир. Переиздание. (Homeworld Remastered)"
 excerpt_separator: "<!--more-->"
 categories:
-  - обзоры
+  - Обзоры
 tags:
   - игры
 ---

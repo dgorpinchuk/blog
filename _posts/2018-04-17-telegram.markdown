@@ -4,7 +4,7 @@ excerpt_separator: "<!--more-->"
 categories:
   - Мысли
 tags:
-  - Телеграм
+  - телеграм
 ---
 
 ![Mad max](/blog/assets/images/telegram.jpg){:class="img-responsive"}
