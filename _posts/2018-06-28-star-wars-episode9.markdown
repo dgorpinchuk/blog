@@ -43,4 +43,5 @@ tags:
 {: .notice--danger}
 
 Рекомендую к просмотру по данной теме:
+{: .notice--warning}
 {% include video id="Vq9ag0D_Z_A" provider="youtube" %}
