@@ -4,6 +4,7 @@
 
 .masthead {
   position: relative;
+  top: 0em;
   border-bottom: 1px solid $border-color;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
@@ -40,9 +41,10 @@
   }
 
 &.sticky {
-  top: 0em;
+  @include clearfix();
   position: -webkit-sticky;
   position: sticky;
+  top: 0em;
   float: right;
   }
 }
