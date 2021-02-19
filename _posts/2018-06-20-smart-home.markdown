@@ -8,7 +8,7 @@ tags:
   - iot
 ---
 
-![Smart Home](/blog/assets/images/how-to-start.jpg){:class="img-responsive"}
+![Smart Home](https://github.com/dgorpinchuk/blog/raw/master/assets/images/how-to-start.jpg){:class="img-responsive"}
 
 В гостиной говорящие часы настойчиво пели: тик-так, семь часов, семь утра, вставать пора! — словно боясь, что их никто не послушает. Объятый утренней тишиной дом был пуст. Часы продолжали тикать и твердили, твердили свое в пустоту: девять минут восьмого, к завтраку все готово, девять минут восьмого!
 

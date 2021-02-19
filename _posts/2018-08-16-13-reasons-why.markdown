@@ -7,7 +7,7 @@ tags:
   - кино
 ---
 
-![Pens](/blog/assets/images/13reasonswhy.jpg){:class="img-responsive"}
+![Pens](https://github.com/dgorpinchuk/blog/raw/master/assets/images/13reasonswhy.jpg){:class="img-responsive"}
 
 Посмотрел сериал. Я искренне не понимаю, откуда у сериала такой высокий рейтинг и столько положительных отзывов.
 

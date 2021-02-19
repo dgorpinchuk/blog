@@ -7,7 +7,7 @@ tags:
   - фильмы
 ---
 
-![Mad max](/blog/assets/images/mad-max.jpg){:class="img-responsive"}
+![Mad max](https://github.com/dgorpinchuk/blog/raw/master/assets/images/mad-max.jpg){:class="img-responsive"}
 
 Если вы ЭТО смотрели и вам понравилось — пожалуйста, объясните, почему. Я действительно не понимаю.
 

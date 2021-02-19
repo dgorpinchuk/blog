@@ -7,7 +7,7 @@ tags:
   - кино
 ---
 
-![Star wars](/blog/assets/images/starwars-8.jpg){:class="img-responsive"}
+![Star wars](https://github.com/dgorpinchuk/blog/raw/master/assets/images/starwars-8.jpg){:class="img-responsive"}
 
 Фильм начинается с геноцида орудийных турелей Star Destroyer одиноким и микроскопическим, но бравым истребителем, а потом этот же Destroyer добивают космические бомбардировщики, сбрасывающие бомбы на корабли противника в невесомом космическом пространстве. Жесть, как она есть...
 

@@ -7,7 +7,7 @@ tags:
   - телеграм
 ---
 
-![Mad max](/blog/assets/images/telegram.jpg){:class="img-responsive"}
+![Mad max](https://github.com/dgorpinchuk/blog/raw/master/assets/images/telegram.jpg){:class="img-responsive"}
 
 > *«Те, кто готовы пожертвовать насущной свободой ради малой толики временной безопасности, не достойны ни свободы, ни безопасности»* — Бенджамин Франклин
 
