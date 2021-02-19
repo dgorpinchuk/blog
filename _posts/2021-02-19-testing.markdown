@@ -1,0 +1,31 @@
+---
+title: Пенсионная реформа
+excerpt_separator: "<!--more-->"
+categories:
+  - Мысли
+tags:
+  - пенсионная_реформа
+---
+
+По мотивам [этого блога.](http://okiseleva.blogspot.com/2018/10/blog-post_22.html)
+
+Знакомьтесь, это Кевин — белка-истеричка!
+
+![1](https://github.com/dgorpinchuk/blog/raw/master/assets/images/testing/1.png){:class="img-responsive"}
+
+Его реакция на баг выглядит примерно так:
+
+![2](https://github.com/dgorpinchuk/blog/raw/master/assets/images/testing/2.png){:class="img-responsive"}
+
+Разумеется, это доведенный до абсурда персонаж. В реальной жизни тестировщики обычно более спокойно реагируют на найденные ошибки. Но иногда кажется, что все действительно пропало. А потом начинаем разбираться и выясняется, что баг вовсе не такой страшный.
+
+![3](https://github.com/dgorpinchuk/blog/raw/master/assets/images/testing/3.png){:class="img-responsive"}
+
+![4](https://github.com/dgorpinchuk/blog/raw/master/assets/images/testing/4.png){:class="img-responsive"}
+
+![5](https://github.com/dgorpinchuk/blog/raw/master/assets/images/testing/5.png){:class="img-responsive"}
+
+![6](https://github.com/dgorpinchuk/blog/raw/master/assets/images/testing/6.png){:class="img-responsive"}
+
+{: .notice--warning}
+Оригинал - [Книга для начинающих тестировщиков](http://testbase.ru/book-beginner)
