@@ -61,17 +61,6 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Я разрабатываю проекты в вебе, а также занимаюсь фронт-эндом"
   links:
-    - label: "Все посты"
-      url: /posts/
-    - label: "Посты по категориям"
-      url: /categories/
-    - label: "Посты по тегам"
-      url: /tags/
-    - label: "Об авторе"
-      url: /about/
-
-footer:
-  links:
     - label: "Telegram"
       icon: "fab fa-fw fa-telegram"
       url: "https://t.me/Gorpinchuk"
@@ -81,6 +70,15 @@ footer:
     - label: "ВКонтакте"
       icon: "fab fa-fw fa-vk"
       url: "https://vk.com/gorpinchuk/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/dgorpinchuk/"
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/dgorpinchuk"
 
 defaults:
   # _posts
