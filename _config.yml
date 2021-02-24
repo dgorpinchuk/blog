@@ -62,10 +62,10 @@ author:
   bio    : "Я разрабатываю проекты в вебе, а также занимаюсь фронт-эндом"
   links:
     - label: "Telegram"
-      icon: "fab fa-fw fa-telegram"
+      icon: "fab fa-fw fa-telegram-plane"
       url: "https://t.me/Gorpinchuk"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/dimon92/"
     - label: "ВКонтакте"
       icon: "fab fa-fw fa-vk"
