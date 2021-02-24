@@ -61,13 +61,13 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Я разрабатываю проекты в вебе, а также занимаюсь фронт-эндом"
   links:
-    - title: "Все посты"
+    - label: "Все посты"
       url: /posts/
-    - title: "Посты по категориям"
+    - label: "Посты по категориям"
       url: /categories/
-    - title: "Посты по тегам"
+    - label: "Посты по тегам"
       url: /tags/
-    - title: "Об авторе"
+    - label: "Об авторе"
       url: /about/
 
 footer:
