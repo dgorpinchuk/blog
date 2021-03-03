@@ -1,6 +1,7 @@
 ---
 title: Умный дом и IoT
 excerpt_separator: "<!--more-->"
+classes: wide
 categories:
   - Мысли
 tags:

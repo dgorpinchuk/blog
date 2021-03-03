@@ -1,6 +1,7 @@
 ---
 title: Звездные Войны. Последние Джедаи
 excerpt_separator: "<!--more-->"
+classes: wide
 categories:
   - Обзоры
 tags:

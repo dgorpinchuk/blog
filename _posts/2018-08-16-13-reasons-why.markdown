@@ -1,6 +1,7 @@
 ---
 title: 13 причин почему
 excerpt_separator: "<!--more-->"
+classes: wide
 categories:
   - Обзоры
 tags:

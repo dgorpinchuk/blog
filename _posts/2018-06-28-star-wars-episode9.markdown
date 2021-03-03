@@ -1,6 +1,7 @@
 ---
 title: Звездные Войны. Скайуокер. Восход
 excerpt_separator: "<!--more-->"
+classes: wide
 categories:
   - Обзоры
 tags:

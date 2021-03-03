@@ -1,6 +1,7 @@
 ---
 title: Звездные Войны. Пробуждение Силы
 excerpt_separator: "<!--more-->"
+classes: wide
 categories:
   - Обзоры
 tags:

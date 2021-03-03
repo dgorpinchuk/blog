@@ -1,6 +1,7 @@
 ---
 title: Цитаты Великих Людей России
 excerpt_separator: "<!--more-->"
+classes: wide
 categories:
   - Я-профессионал
 tags:

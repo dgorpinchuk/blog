@@ -1,6 +1,7 @@
 ---
 title: Про Телеграм
 excerpt_separator: "<!--more-->"
+classes: wide
 categories:
   - Мысли
 tags:
