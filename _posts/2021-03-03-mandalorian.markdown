@@ -1,6 +1,7 @@
 ---
 title: Мандалорец
 excerpt_separator: "<!--more-->"
+toc: true
 categories:
   - Обзоры
 tags:
