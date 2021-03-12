@@ -8,7 +8,7 @@ tags:
   - интернет
 ---
 
-{% include figure image_path="https://github.com/dgorpinchuk/blog/raw/master/assets/images/twitter-rus.png" alt="Картинка Твиттера" caption="Фото: Habr.com / https://habr.com/ru/news/t/546280/" %}
+{% include figure image_path="https://github.com/dgorpinchuk/blog/raw/master/assets/images/twitter-rus.png" alt="Картинка Твиттера" caption="Фото: [Habr.com](https://habr.com/ru/news/t/546280/)" %}
 
 Вижу очень много сравнений этой ситуации с тем, когда Твиттер блокировал аккаунты действующего президента США - Дональда Трампа.
 
