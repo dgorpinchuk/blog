@@ -6,7 +6,7 @@ categories:
   - Мысли
 tags:
   - разработка
-  - web
+  - интернет
 ---
 
 По мотивам [этого блога.](http://okiseleva.blogspot.com/2018/10/blog-post_22.html)
