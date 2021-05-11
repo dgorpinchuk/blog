@@ -1,5 +1,5 @@
 ---
-title: Безумный Макс. Жевачка для глаз.
+title: Безумный Макс. Жевачка для глаз
 excerpt_separator: "<!--more-->"
 classes: wide
 categories:
