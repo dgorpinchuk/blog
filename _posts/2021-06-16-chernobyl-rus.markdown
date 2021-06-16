@@ -1,4 +1,12 @@
 ---
+header:
+  overlay_image: /assets/images/chernobyl-2.jpg
+  overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
+  caption: "Сразу чувствуется рука Росатома при создании этого «шедевра»"
+  actions:
+    - label: "Страница на Кинопоиске"
+      url: "https://www.kinopoisk.ru/film/1249198/"
+
 title: ЧерноБЫЛЬ
 excerpt_separator: "<!--more-->"
 classes: wide
