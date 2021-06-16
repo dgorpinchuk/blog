@@ -1,4 +1,6 @@
 ---
+title: ЧерноБЫЛЬ
+excerpt_separator: "<!--more-->"
 header:
   overlay_image: /assets/images/chernobyl-2.jpg
   overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
@@ -6,17 +8,12 @@ header:
   actions:
     - label: "Страница на Кинопоиске"
       url: "https://www.kinopoisk.ru/film/1249198/"
-
-title: ЧерноБЫЛЬ
-excerpt_separator: "<!--more-->"
 classes: wide
 categories:
   - Обзоры
 tags:
   - кино
 ---
-
-{% include figure image_path="https://github.com/dgorpinchuk/blog/raw/master/assets/images/chernobyl-2.jpg" alt="Чернобыль" caption="Сразу чувствуется рука Росатома при создании этого «шедевра» / Фото / kinopoisk.ru" %}
 
 {: .notice--primary}
 Итак, начнем. В этом фильме Данила Козловский играет как всегда Данилу Козловского, играет хорошо и чётко — не в первой же, да и режиссёром тут Данила Козловский. Идеальное сочетание, не правда ли?
