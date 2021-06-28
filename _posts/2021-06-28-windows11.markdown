@@ -2,13 +2,38 @@
 title: Windows 11
 excerpt: "Некоторые мысли про новую Windows и её системные требования."
 header:
-  overlay_image: /assets/images/win11.jpg
+  overlay_image: /assets/images/win11/win11.jpg
   overlay_filter: 0.5
   caption: "Обоина из утекшей сборки"
   actions:
     - label: "Страница на сайте Microsoft"
       url: "https://www.microsoft.com/ru-ru/windows/windows-11"
 classes: wide
+gallery:
+  - url: /assets/images/win11/win11_1.jpg
+    image_path: /assets/images/win11/win11_1.jpg
+    alt: "Image 1"
+    title: "Меню «Пуск»"
+  - url: /assets/images/win11/win11_2.jpg
+    image_path: /assets/images/win11/win11_2.jpg
+    alt: "Image 2"
+    title: "Настройки экрана блокировки"
+  - url: /assets/images/win11/win11_3.jpg
+    image_path: /assets/images/win11/win11_3.jpg
+    alt: "Image 3"
+    title: "Настройки тем"
+  - url: /assets/images/win11/win11_4.jpg
+    image_path: /assets/images/win11/win11_4.jpg
+    alt: "Image 4"
+    title: "Меню настроек"
+  - url: /assets/images/win11/win11_5.jpg
+    image_path: /assets/images/win11/win11_5.jpg
+    alt: "Image 5"
+    title: "Панель виджетов"
+  - url: /assets/images/win11/win11_6.jpg
+    image_path: /assets/images/win11/win11_6.jpg
+    alt: "Image 6"
+    title: "Новый Проводник"
 categories:
   - Мысли
 tags:
@@ -33,3 +58,5 @@ tags:
 👉 Кстати [документацию недавно немного подправили](https://docs.microsoft.com/en-us/windows/compatibility/windows-11/#hardware-requirements) :) Очевидно, компания до конца не определилась. И не исключено, что в какой-то момент переиграют, изменив этот блок требований на предупреждение👌
 
 А вообще новый Windows понравился, наконец-то меняются многие компоненты UI, которые сейчас выглядят страшно. Возможно стоило бы не называть это громким именем Windows 11, а выпустить в качестве крупного обновления для Windows 10, как это и было запланировано изначально - [Sun valley](https://habr.com/ru/post/537330/).
+
+{% include gallery caption="Скриншоты с Windows 11 Build 22000.51" %}
