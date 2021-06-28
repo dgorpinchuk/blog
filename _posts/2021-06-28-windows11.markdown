@@ -1,6 +1,6 @@
 ---
-title: Windows 11
-excerpt: "Некоторые мысли про новую Windows и её системные требования."
+title: Некоторые мысли про новую Windows и её системные требования
+excerpt: "Microsoft обещал, что новой версии Windows после 10 не будет? Да нет, такого они не обещали, так что встречайте..."
 header:
   overlay_image: /assets/images/win11/win11.jpg
   overlay_filter: 0.5
