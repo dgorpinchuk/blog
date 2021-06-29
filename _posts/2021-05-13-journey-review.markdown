@@ -2,9 +2,9 @@
 title: Небольшая заметка про Journey
 excerpt: "Небольшое, но прекрасное путешествие..."
 header:
-  overlay_image: http://th04.deviantart.net/fs70/PRE/i/2013/126/8/4/journey_fan_art___again_by_pint38-d64egmu.jpg
+  overlay_image: /assets/images/win11/journey.jpg
   overlay_filter: 0.5
-  caption: "Фото: [gamehaze.ru](http://gamehaze.ru/four-visions-of-journey/)"
+  caption: "Фото: [deviantart.com](https://www.deviantart.com/tacosauceninja/art/Journey-Eventually-558211708)"
   actions:
     - label: "Страница в Steam"
       url: "https://store.steampowered.com/app/638230/Journey/"
