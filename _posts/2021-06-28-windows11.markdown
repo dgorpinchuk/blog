@@ -10,6 +10,10 @@ header:
       url: "https://www.microsoft.com/ru-ru/windows/windows-11"
 classes: wide
 gallery:
+  - url: /assets/images/win11/win11_0.jpg
+    image_path: /assets/images/win11/win11_0.jpg
+    alt: "Image 0"
+    title: "Набираю этот пост в любимом редакторе"
   - url: /assets/images/win11/win11_1.jpg
     image_path: /assets/images/win11/win11_1.jpg
     alt: "Image 1"
