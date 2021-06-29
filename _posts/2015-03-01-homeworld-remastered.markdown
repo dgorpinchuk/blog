@@ -1,6 +1,15 @@
 ---
-title: "Родной Мир. Переиздание. (Homeworld Remastered)"
-excerpt_separator: "<!--more-->"
+title: " Homeworld Remastered"
+excerpt: "Родной Мир. Переиздание."
+header:
+  overlay_image: /assets/images/hwr.jpg
+  overlay_filter: 0.5
+  caption: "Фото: [store.steampowered.com](https://cdn.akamai.steamstatic.com/steam/apps/244160/ss_00c4865153238dfa69fa88e135d23577e152bc79.1920x1080.jpg?t=1573071664)"
+  actions:
+    - label: "Страница в Steam"
+      url: "https://store.steampowered.com/app/244160/Homeworld_Remastered_Collection/"
+      
+classes: wide
 toc: true
 categories:
   - Обзоры
