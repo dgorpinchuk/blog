@@ -2,7 +2,7 @@
 title: Небольшая заметка про Journey
 excerpt: "Небольшое, но прекрасное путешествие..."
 header:
-  overlay_image: /assets/images/win11/journey.jpg
+  overlay_image: /assets/images/journey.jpg
   overlay_filter: 0.5
   caption: "Фото: [deviantart.com](https://www.deviantart.com/tacosauceninja/art/Journey-Eventually-558211708)"
   actions:
