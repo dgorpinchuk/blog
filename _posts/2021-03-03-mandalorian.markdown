@@ -9,6 +9,7 @@ header:
     - label: "Страница на Кинопоиске"
       url: "https://www.kinopoisk.ru/series/1118138/"
 toc: true
+classes: wide
 categories:
   - Обзоры
 tags:
