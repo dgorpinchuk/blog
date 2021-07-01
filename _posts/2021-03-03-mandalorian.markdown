@@ -1,6 +1,13 @@
 ---
 title: Мандалорец
-excerpt_separator: "<!--more-->"
+excerpt: "Даже малыш Йода не помог..."
+header:
+  overlay_image: https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/8f4e670b-577f-4499-a3e1-7bc39f69db4f/960x960
+  overlay_filter: 0.5
+  caption: "Фото: [kinopoisk.ru](https://www.kinopoisk.ru/picture/3585581/#3585581)"
+  actions:
+    - label: "Страница на Кинопоиске"
+      url: "https://www.kinopoisk.ru/series/1118138/"
 toc: true
 categories:
   - Обзоры
