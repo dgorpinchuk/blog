@@ -2,7 +2,7 @@
 title: Мандалорец
 excerpt: "Даже малыш Йода не помог..."
 header:
-  overlay_image: https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/8f4e670b-577f-4499-a3e1-7bc39f69db4f/960x960
+  overlay_image: https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/8860c84d-4832-4f52-9c26-bc489d857de2/orig
   overlay_filter: 0.5
   caption: "Фото: [kinopoisk.ru](https://www.kinopoisk.ru/picture/3585581/#3585581)"
   actions:
