@@ -8,6 +8,7 @@ header:
   actions:
     - label: "Страница в Steam"
       url: "https://store.steampowered.com/app/638230/Journey/"
+classes: wide
 categories:
   - Обзоры
 tags:

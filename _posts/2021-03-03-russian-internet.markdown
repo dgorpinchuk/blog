@@ -2,6 +2,7 @@
 title: «Глупость и абсурд». Чем грозят новые идеи депутатов Госдумы о регулировании интернета
 excerpt_separator: "<!--more-->"
 toc: true
+classes: wide
 categories:
   - Мысли
 tags:
