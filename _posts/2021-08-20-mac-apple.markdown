@@ -2,9 +2,9 @@
 title: Scary stuff
 excerpt: "Здесь будет сборник мыслей про Apple и ее продукты"
 header:
-  overlay_image: https://trashbox.ru/files/1408162_dd1d32/og_fodnljjkwl6y.png
+  overlay_image: https://lifehacker.ru/wp-content/uploads/2021/03/CHego-zhdat-ot-vesennej-prezentacii-Apple_1616362878.jpg
   overlay_filter: 0.5
-  caption: "Обоина из утекшей сборки"
+  caption: "Apple.com"
   actions:
     - label: "Мемы"
       url: "https://www.google.com/search?q=apple%20meme&tbm=isch&tbs=isz:l&hl=ru&sa=X&ved=0CAIQpwVqFwoTCMjmqMmRv_ICFQAAAAAdAAAAABAC&biw=1519&bih=810"
