@@ -10,6 +10,7 @@ header:
       url: "https://www.lenovo.com/ru/ru/laptops/thinkpad/thinkpad-x1/X1-Yoga-G6/p/22TP2X1X1Y6"
     - label: "Apple MacBook Air 2020 M1"
       url: "https://www.apple.com/ru/macbook-air/specs/"
+toc: true
 classes: wide
 categories:
   - Мысли
