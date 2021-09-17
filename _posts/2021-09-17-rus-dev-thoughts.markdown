@@ -1,5 +1,6 @@
 ---
 title: Мысли одно разработчика, проживающего в РФ
+excerpt: "По мотивам беседы с одним разработчиком"
 header:
   overlay_image: https://pbs.twimg.com/media/EU_b7qcXsAAcc-W.jpg
   overlay_filter: 0.2
