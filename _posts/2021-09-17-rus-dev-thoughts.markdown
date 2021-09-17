@@ -4,9 +4,6 @@ excerpt: "По мотивам беседы с одним разработчик�
 header:
   overlay_image: https://pbs.twimg.com/media/EU_b7qcXsAAcc-W.jpg
   overlay_filter: 0.2
-  actions:
-    - label: "Интересное для чтения"
-      url: "https://habr.com/ru/post/575302/"
 classes: wide
 categories:
   - Мысли
