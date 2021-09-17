@@ -3,7 +3,7 @@ title: Мысли одно разработчика, проживающего в
 excerpt: "По мотивам беседы с одним разработчиком"
 header:
   overlay_image: https://pbs.twimg.com/media/EU_b7qcXsAAcc-W.jpg
-  overlay_filter: 0.2
+  overlay_filter: 0.5
 classes: wide
 categories:
   - Мысли
