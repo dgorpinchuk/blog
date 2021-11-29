@@ -3,7 +3,8 @@ title: Электромобили
 excerpt: "Рынок электротранспорта — он почему перспективный? А вы посмотрите, как акции растут! А акции почему растут? А вы посмотрите, какой рынок электротранспорта перспективный!"
 header:
   overlay_image: /assets/images/Renewable_Energy_Facts.jpeg
-  overlay_filter: 0.5
+  overlay_filter: 0.7
+  caption: "Розовые мечты"
 classes: wide
 categories:
   - Мысли
