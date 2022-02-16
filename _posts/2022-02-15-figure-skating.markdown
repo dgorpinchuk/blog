@@ -3,7 +3,7 @@ title: Профессиональный спорт калечит здоровь
 excerpt: "Вот так новость, ох уже эта негодяйка Тутберидзе! 😂"
 header:
   overlay_image: /assets/images/kamila.jpeg
-  overlay_filter: 0.5
+  overlay_filter: 0.6
 classes: wide
 categories:
   - Мысли
