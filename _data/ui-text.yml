@@ -693,6 +693,7 @@ ru: &DEFAULT_RU
   search_placeholder_text    : "Введите поисковый запрос..."
   search_algolia_no_results  :
   results_found              : "Найдено"
+  back_to_top                : "Наверх"
 ru-RU:
   <<: *DEFAULT_RU
 
