@@ -63,32 +63,36 @@ tags:
 Обратите внимание, что, как правило, на ноутбуках с диагональю экрана в 14 дюймов или менее отсутствует правый цифровой блок на клавиатуре. Но присутствует на моделях с экраном 15 дюймов и более (исключение - X1 Extreme).
 
 ![Notebook](https://www.notebookcheck-ru.com/fileadmin/_processed_/1/2/csm_DSC_0011_0bbcea4c7e.jpg){:class="img-responsive"}
-#### [X1 Carbon.](https://www.notebookcheck-ru.com/Obzor-noutbuka-Lenovo-ThinkPad-X1-Carbon-G9.539138.0.html)
+#### [X1 Carbon](https://www.notebookcheck-ru.com/Obzor-noutbuka-Lenovo-ThinkPad-X1-Carbon-G9.539138.0.html)
 Один из самых универсальных и сбалансированных ноутбуков в линейке. Очень легкий (всего 1.1 кг, что меньше даже MacBook Air) для 14 дюймовой модели, прочный и надежный (сертификация по военным стандартам). В отличие от многих, его (на момент написания данного гайда) еще не постигла участь с лишением обычных портов и полного перехода на type-c. В вашем распоряжении будет и type-c и обычный полноразмерный usb-a в количестве двух штук, а также HDMI. Идеальный ноутбук "на каждый день", справляется практически с любыми задачами (не нужно от него ожидать возможность отрендерить тяжелое видео, с простыми он скорее всего справится).
 
 ![Notebook](https://www.notebookcheck-ru.com/fileadmin/_processed_/a/d/csm_IMG_0738_b0df5c5c18.jpg){:class="img-responsive"}
-#### [X1 Yoga.](https://www.notebookcheck-ru.com/Obzor-noutbuka-Lenovo-ThinkPad-X1-Yoga-G6-Luchshii-korporativnyi-transformer.537411.0.html)
+#### [X1 Yoga](https://www.notebookcheck-ru.com/Obzor-noutbuka-Lenovo-ThinkPad-X1-Yoga-G6-Luchshii-korporativnyi-transformer.537411.0.html)
 По сути тоже самое, что и предыдущий Carbon, но является трансформером. То есть в дополнение ко всему вышеперечисленному вы получаете сенсорный экран и возможность его выгнуть в обратную сторону (тем самым получив планшет) и перо (поддерживается разная сила нажатия и угол и т.п.). Начиная с шестого (Gen6) поколения изготавливается из металла. Имеет чуть больший вес по сравнению с Carbon, а именно 1.4 кг.
 
 ![Notebook](https://www.notebookcheck-ru.com/fileadmin/_processed_/7/8/csm_IMG_9534_4b6e9552c3.jpg){:class="img-responsive"}
-#### [X1 Extreme.](https://www.notebookcheck-ru.com/Obzor-Lenovo-ThinkPad-X1-Extreme-Gen3-Premialnyi-multimediinyi-noutbuk.514444.0.html)
+#### [X1 Extreme](https://www.notebookcheck-ru.com/Obzor-Lenovo-ThinkPad-X1-Extreme-Gen3-Premialnyi-multimediinyi-noutbuk.514444.0.html)
 Все достоинства Carbon, но с большой диагональю (15 дюймов или 16 дюймов, если модель с экраном 16:10) и более мощное железо, которое больше похоже на рабочую станцию. Без проблем справится даже с тяжелыми задачами, а дискретная видеокарта позволить даже играть в игры (хотя ноутюук и не позиционируется как игровой). Для своей диагонали имеет небольшой вес - 1,75 кг, вполне подойдет для ежедневного использования.
 
 ![Notebook](https://www.notebookcheck-ru.com/fileadmin/_processed_/e/6/csm_IMG_9937_442150deba.jpg){:class="img-responsive"}
-#### [X1 Nano.](https://www.notebookcheck-ru.com/Obzor-noutbuka-Lenovo-ThinkPad-X1-Nano-Podderzhka-LTE-i-ves-menee-1-kilogramma.519735.0.html).
+#### [X1 Nano](https://www.notebookcheck-ru.com/Obzor-noutbuka-Lenovo-ThinkPad-X1-Nano-Podderzhka-LTE-i-ves-menee-1-kilogramma.519735.0.html)
 Еще более "похудевший" Carbon, очень тонкий (из-за этого при раскрытии экрана нижняя кромка экрана как бы приподнимает корпус ноутбука от стола). Миниатюрный, 13 дюймов экран и всего два порта type-c. Весит 900 (!) грамм, что делает его идеальным компаньоном, если вы много путешествуете. Самая легкая модель среди всех ноутбуков Lenovo. Ближайший конкурент от Apple - MacBook Air весит 1.2 - 1.3 кг.
 
 ![Notebook](https://www.notebookcheck-ru.com/fileadmin/_processed_/e/1/csm_IMG_6061_29cabd0e95.jpg){:class="img-responsive"}
-- **[T14]**(https://www.notebookcheck-ru.com/Obzor-i-test-Lenovo-ThinkPad-T14-G3-AMD-Luchshe-chem-Intel-versija.723990.0.html) (модель с экраном 14 дюймов) и **[Т15]**(https://www.notebookcheck-ru.com/Obzor-noutbuka-Lenovo-ThinkPad-T15-Gen-1.483835.0.html) (модель с экраном 15 дюймов) в различных конфигурациях. Собственно многими считаются классическими ThinkPadами. Относительно легкие (средней вес для модели 14 дюймов - 1,5 кг), немного более толстые, чем модели линейки X1. имеют все необходимые порты, и даже часто встречается разъем RJ-45 для интернет-кабелей. Есть модели с AMD процессором (в отличие от линейки X1, где господствует Intel). В итоге: просто хорошо сбалансированные аппараты.
+#### T14, T15
+**[T14]**(https://www.notebookcheck-ru.com/Obzor-i-test-Lenovo-ThinkPad-T14-G3-AMD-Luchshe-chem-Intel-versija.723990.0.html) (модель с экраном 14 дюймов) и **[Т15]**(https://www.notebookcheck-ru.com/Obzor-noutbuka-Lenovo-ThinkPad-T15-Gen-1.483835.0.html) (модель с экраном 15 дюймов) в различных конфигурациях. Собственно многими считаются классическими ThinkPadами. Относительно легкие (средней вес для модели 14 дюймов - 1,5 кг), немного более толстые, чем модели линейки X1. имеют все необходимые порты, и даже часто встречается разъем RJ-45 для интернет-кабелей. Есть модели с AMD процессором (в отличие от линейки X1, где господствует Intel). В итоге: просто хорошо сбалансированные аппараты.
 
 ![Notebook](https://www.notebookcheck-ru.com/fileadmin/_processed_/e/1/csm_DSC_0481_815af91e0d.jpg){:class="img-responsive"}
-- **[P14]**(https://www.notebookcheck-ru.com/Obzor-i-test-Lenovo-ThinkPad-P14s-G3-AMD.723246.0.html) (модель с экраном 14 дюймов) и **[P15]**(https://www.notebookcheck-ru.com/Kratkii-obzor-noutbuka-Lenovo-ThinkPad-P15-G2.569935.0.html) (модель с экраном 15 дюймов) в различных конфигурациях. Схожи с моделями серии T, но, как правило, имеют особенность в виде наличия дискретной видеокарты (не для игр, а для работы специализированного CAD софта). Являются рабочими станциями, соответственно имеют хорошее и мощное железо.
+#### P14, P15
+**[P14]**(https://www.notebookcheck-ru.com/Obzor-i-test-Lenovo-ThinkPad-P14s-G3-AMD.723246.0.html) (модель с экраном 14 дюймов) и **[P15]**(https://www.notebookcheck-ru.com/Kratkii-obzor-noutbuka-Lenovo-ThinkPad-P15-G2.569935.0.html) (модель с экраном 15 дюймов) в различных конфигурациях. Схожи с моделями серии T, но, как правило, имеют особенность в виде наличия дискретной видеокарты (не для игр, а для работы специализированного CAD софта). Являются рабочими станциями, соответственно имеют хорошее и мощное железо.
 
 ![Notebook](https://www.notebookcheck-ru.com/uploads/tx_nbc2/LenovoThinkPadP17-G1__1_.jpg){:class="img-responsive"}
-- **[P17]**(https://www.notebookcheck-ru.com/Kratkii-obzor-noutbuka-Lenovo-ThinkPad-P17-G2.570102.0.html) (модель с экраном 17 дюймов). Самый мощный ноутбук линейки ThinkPad. Ультимативное и самое дорогое решение для профессионалов. Очень тяжелый. Возможность установить железо серверного класса. Скорее всего не существует такой задачи, которую этот ноутбук не сможет потянуть.
+#### P17
+**[P17]**(https://www.notebookcheck-ru.com/Kratkii-obzor-noutbuka-Lenovo-ThinkPad-P17-G2.570102.0.html) (модель с экраном 17 дюймов). Самый мощный ноутбук линейки ThinkPad. Ультимативное и самое дорогое решение для профессионалов. Очень тяжелый. Возможность установить железо серверного класса. Скорее всего не существует такой задачи, которую этот ноутбук не сможет потянуть.
 
 ![Notebook](https://www.notebookcheck.net/fileadmin/_processed_/c/5/csm_DSC_0026_9f2884bdd4.jpg){:class="img-responsive"}
-- **[Z13]**(https://www.notebookcheck.net/Lenovo-ThinkPad-Z13-laptop-review-AMD-s-premium-ThinkPad-with-long-battery-life.639685.0.html) (модель с экраном 14 дюймов) и **[Z16]**(https://www.notebookcheck-ru.com/Kratkii-obzor-Lenovo-ThinkPad-Z16-G1.662365.0.html) (модель с экраном 16 дюймов). Попытка "осовременнить" линейку ThinkPad. Металлические корпуса, современный дизайн, только порты type-c. Отличные экраны, хорошая автономность. Выпускаются только на процессорах AMD (что является преимуществом).
+#### Z13, Z16s
+**[Z13]**(https://www.notebookcheck.net/Lenovo-ThinkPad-Z13-laptop-review-AMD-s-premium-ThinkPad-with-long-battery-life.639685.0.html) (модель с экраном 14 дюймов) и **[Z16]**(https://www.notebookcheck-ru.com/Kratkii-obzor-Lenovo-ThinkPad-Z16-G1.662365.0.html) (модель с экраном 16 дюймов). Попытка "осовременнить" линейку ThinkPad. Металлические корпуса, современный дизайн, только порты type-c. Отличные экраны, хорошая автономность. Выпускаются только на процессорах AMD (что является преимуществом).
 
 
 ### ThinkBook
