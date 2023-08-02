@@ -1,5 +1,5 @@
 ---
-title: Мысли одно разработчика, проживающего в РФ
+title: Мысли одного разработчика, проживающего в РФ
 excerpt: "По мотивам беседы с одним разработчиком"
 header:
   overlay_image: https://pbs.twimg.com/media/EU_b7qcXsAAcc-W.jpg
