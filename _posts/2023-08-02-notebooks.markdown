@@ -51,10 +51,10 @@ tags:
 {: .notice--warning}
 К сожалению, процессоры Intel 12ого поколения и старше (модели 12XX) имеют большие проблемы с нагревом и временем автономной работы. Сильный нагрев приводит к троттлингу. Лучше не рисковать и обходить их стороной, или смотреть в сторону процессоров AMD. В остальном, достаточно будет 11ой или 10ой линейки процессоров (Intel Core i5 1135G7 и т.п.).
 
-## **Lenovo**
+## Lenovo
 Небольшое предупреждение будет только насчет того, что фактически модели из разных ценовых сегментов делают как бы две разные компании, настолько они отличаются по качеству и остальным параметрам. Скорее всего до 50 т.р. или дешевле вы не найдете у них приличных ноутбуков (особенно старайтесь остерегаться линейки IdeaPad, в которой очень сильно "гуляет" качество), в этом случае лучше будет посмотреть в сторону моделей Huawei или Honor.
 
-#### ThinkPad
+### ThinkPad
 Можно рассмотреть линейки ноутбуков с моделями X1, T, X, P, Z, Yoga.
 Внутри каждой линейки есть модели с разным весом, диагоналями экрана и железом. Ноутбуки относятся к корпоративной линейке и предполагают рабочее окружение, а не игры.
 Из особенностей можно выделить черный матовый корпус из углеволокна (который очень любит собирать отпечатки пальцев), поменянные местами клавиши Ctrl и Fn (наследие линейки ThinkPad, доставшееся им от компании IBM), красный тензометрический джойстик по центру клавиатуры (удобная штука, когда не получается использовать тачпад, например, грязные или мокрые руки, перчатки и т.п.), выделенные клавиши над тачпадом для левой, средней и правой клавиш мыши. Одна из удобнейших клавиатур на рынке. Она также защищена от случайного пролития жидкости (имеется дренаж). Различные стандарты сертификации, защиты и шифрования (актуально для организаций). Как правило, старшие конфигурации имеют опциональную возможность установки модуля сотовой связи и сим карты для работы интернета как на телефоне. Крышка экрана имеет отличный шарнир и открывается на 180 градусов или более (в случае трансформеров). Как правило, относительно просто разбираются и обслуживаются (замена аккумулятора и других компонентов не должна стать проблемой).
@@ -63,19 +63,19 @@ tags:
 Обратите внимание, что, как правило, на ноутбуках с диагональю экрана в 14 дюймов или менее отсутствует правый цифровой блок на клавиатуре. Но присутствует на моделях с экраном 15 дюймов и более (исключение - X1 Extreme).
 
 ![Notebook](https://www.notebookcheck-ru.com/fileadmin/_processed_/1/2/csm_DSC_0011_0bbcea4c7e.jpg){:class="img-responsive"}
-##### [X1 Carbon.](https://www.notebookcheck-ru.com/Obzor-noutbuka-Lenovo-ThinkPad-X1-Carbon-G9.539138.0.html) 
+#### [X1 Carbon.](https://www.notebookcheck-ru.com/Obzor-noutbuka-Lenovo-ThinkPad-X1-Carbon-G9.539138.0.html)
 Один из самых универсальных и сбалансированных ноутбуков в линейке. Очень легкий (всего 1.1 кг, что меньше даже MacBook Air) для 14 дюймовой модели, прочный и надежный (сертификация по военным стандартам). В отличие от многих, его (на момент написания данного гайда) еще не постигла участь с лишением обычных портов и полного перехода на type-c. В вашем распоряжении будет и type-c и обычный полноразмерный usb-a в количестве двух штук, а также HDMI. Идеальный ноутбук "на каждый день", справляется практически с любыми задачами (не нужно от него ожидать возможность отрендерить тяжелое видео, с простыми он скорее всего справится).
 
 ![Notebook](https://www.notebookcheck-ru.com/fileadmin/_processed_/a/d/csm_IMG_0738_b0df5c5c18.jpg){:class="img-responsive"}
-##### [X1 Yoga.](https://www.notebookcheck-ru.com/Obzor-noutbuka-Lenovo-ThinkPad-X1-Yoga-G6-Luchshii-korporativnyi-transformer.537411.0.html) 
+#### [X1 Yoga.](https://www.notebookcheck-ru.com/Obzor-noutbuka-Lenovo-ThinkPad-X1-Yoga-G6-Luchshii-korporativnyi-transformer.537411.0.html)
 По сути тоже самое, что и предыдущий Carbon, но является трансформером. То есть в дополнение ко всему вышеперечисленному вы получаете сенсорный экран и возможность его выгнуть в обратную сторону (тем самым получив планшет) и перо (поддерживается разная сила нажатия и угол и т.п.). Начиная с шестого (Gen6) поколения изготавливается из металла. Имеет чуть больший вес по сравнению с Carbon, а именно 1.4 кг.
 
 ![Notebook](https://www.notebookcheck-ru.com/fileadmin/_processed_/7/8/csm_IMG_9534_4b6e9552c3.jpg){:class="img-responsive"}
-##### [X1 Extreme.](https://www.notebookcheck-ru.com/Obzor-Lenovo-ThinkPad-X1-Extreme-Gen3-Premialnyi-multimediinyi-noutbuk.514444.0.html) 
+#### [X1 Extreme.](https://www.notebookcheck-ru.com/Obzor-Lenovo-ThinkPad-X1-Extreme-Gen3-Premialnyi-multimediinyi-noutbuk.514444.0.html)
 Все достоинства Carbon, но с большой диагональю (15 дюймов или 16 дюймов, если модель с экраном 16:10) и более мощное железо, которое больше похоже на рабочую станцию. Без проблем справится даже с тяжелыми задачами, а дискретная видеокарта позволить даже играть в игры (хотя ноутюук и не позиционируется как игровой). Для своей диагонали имеет небольшой вес - 1,75 кг, вполне подойдет для ежедневного использования.
 
 ![Notebook](https://www.notebookcheck-ru.com/fileadmin/_processed_/e/6/csm_IMG_9937_442150deba.jpg){:class="img-responsive"}
-##### [X1 Nano.](https://www.notebookcheck-ru.com/Obzor-noutbuka-Lenovo-ThinkPad-X1-Nano-Podderzhka-LTE-i-ves-menee-1-kilogramma.519735.0.html). 
+#### [X1 Nano.](https://www.notebookcheck-ru.com/Obzor-noutbuka-Lenovo-ThinkPad-X1-Nano-Podderzhka-LTE-i-ves-menee-1-kilogramma.519735.0.html).
 Еще более "похудевший" Carbon, очень тонкий (из-за этого при раскрытии экрана нижняя кромка экрана как бы приподнимает корпус ноутбука от стола). Миниатюрный, 13 дюймов экран и всего два порта type-c. Весит 900 (!) грамм, что делает его идеальным компаньоном, если вы много путешествуете. Самая легкая модель среди всех ноутбуков Lenovo. Ближайший конкурент от Apple - MacBook Air весит 1.2 - 1.3 кг.
 
 ![Notebook](https://www.notebookcheck-ru.com/fileadmin/_processed_/e/1/csm_IMG_6061_29cabd0e95.jpg){:class="img-responsive"}
@@ -91,91 +91,91 @@ tags:
 - **[Z13]**(https://www.notebookcheck.net/Lenovo-ThinkPad-Z13-laptop-review-AMD-s-premium-ThinkPad-with-long-battery-life.639685.0.html) (модель с экраном 14 дюймов) и **[Z16]**(https://www.notebookcheck-ru.com/Kratkii-obzor-Lenovo-ThinkPad-Z16-G1.662365.0.html) (модель с экраном 16 дюймов). Попытка "осовременнить" линейку ThinkPad. Металлические корпуса, современный дизайн, только порты type-c. Отличные экраны, хорошая автономность. Выпускаются только на процессорах AMD (что является преимуществом).
 
 
-#### ThinkBook
+### ThinkBook
 
 ![Notebook](https://www.notebookcheck-ru.com/fileadmin/_processed_/5/d/csm_ThinkBook_14_9_d92bddd46a.jpg){:class="img-responsive"}
 ![Notebook](https://www.notebookcheck-ru.com/uploads/tx_nbc2/teaser_56.jpg){:class="img-responsive"}
 В этой линейке представлены довольно сбалансированные ноутбуки для любых пользователей. В особенности хочется отметить модель с экраном 14 дюймов ([ThinkBook 14](https://www.notebookcheck-ru.com/Noutbuk-Lenovo-ThinkBook-14-i5-10210U-Obzor-ot-Notebookcheck.456831.0.html) G2 и старше), а также с экраном 16 дюймов ([16p](https://3dnews.ru/1065139/obzor-lenovo-thinkbook-16p-gen-2/page-1.html)). G2, G3 и более старшее поколение Сохранены некоторые фишки линейки ThinkPad, но убран тензометрический джойстик. Есть модели как на Intel, так и на AMD (предпочтительнее).
 
-#### Yoga
+### Yoga
 
 ![Notebook](https://www.notebookcheck.net/fileadmin/Notebooks/Lenovo/Yoga_6_13_82ND0009US/IMG_20210710_150015.jpg){:class="img-responsive"}
 ![Notebook](https://www.notebookcheck-ru.com/fileadmin/_processed_/c/4/csm_IMG_5842_2035cabe7e.jpg){:class="img-responsive"}
 Не путать с X1 Yoga! Здесь хочется выделить модели: [Lenovo Yoga 6](https://www.notebookcheck-ru.com/Obzor-noutbuka-Lenovo-Yoga-6-13.551191.0.html), [Lenovo Yoga 7](https://www.notebookcheck-ru.com/Obzor-noutbuka-Lenovo-Yoga-7-14-G7-Multimediinyi-transformer-na-baze-AMD-Ryzen-7-6800U.647051.0.html), и из различные модификации. Это трансформеры, у которых отличный сенсорный экран (имеющий к тому же бОльшую частоту обновления, что будет заметно в плавности работы операционной системы и рисования пером на экране), удобный для использования в режиме планшета округлый корпус и много других достоинств, включая одни из лучших динамиков (благодаря конструкции корпуса, где динамики встроены в шарнир крышки экрана) среди Windows ноутбуков.
 
-#### [Legion 5](https://www.notebookcheck-ru.com/Obzor-noutbuka-Lenovo-Legion-5-15-G6-AMD.561261.0.html), [7](https://www.notebookcheck-ru.com/Obzor-Lenovo-Legion-7-16IAX7-Bystryi-16-djuimovyi-igrovoi-noutbuk-so-165-Gc-ehkranom.655134.0.html)
+### [Legion 5](https://www.notebookcheck-ru.com/Obzor-noutbuka-Lenovo-Legion-5-15-G6-AMD.561261.0.html), [7](https://www.notebookcheck-ru.com/Obzor-Lenovo-Legion-7-16IAX7-Bystryi-16-djuimovyi-igrovoi-noutbuk-so-165-Gc-ehkranom.655134.0.html)
 
 ![Notebook](https://www.notebookcheck-ru.com/fileadmin/_processed_/9/b/csm_IMG_1493_a79b2e0b3d.jpg){:class="img-responsive"}
 ![Notebook](https://www.notebookcheck-ru.com/fileadmin/_processed_/9/6/csm_IMG_6095_585a3573ac.jpg){:class="img-responsive"}
 Игровые ноутбуки Lenovo. Несмотря на это, имеют очень утилитарный и строгий дизайн, поэтому ноутбук больше похож на лфисный (для работы) или для работы с контентом. Модели с экраном 15 и 16 дюймов - самые популярные. Последние модификации имеют адекватное мощное железо (мощнее подавляющего большинства ThinkPad, кроме моделей линейки P), хорошую систему охлаждения (помимо кулеров используется испарительная камера) и адекватную стомость. Не самые тяжелые (2.0 - 2.5 кг) для игровых ноутбуков. Отличная клавиатура (без издевательств с формой клавиш и шрифтов гравировки, какое можно встретить на подавляющем большинстве игровых ноутбуков других производителей). Предпочтительно брать модели на процессорах AMD Ryzen 5, 7 или выше. Как и в случае с P17, скорее всего вы не найдете такую задачу, с которой этот ноутбук не справится.
 
 ## Dell
-#### [XPS](https://www.notebookcheck-ru.com/Obzor-noutbuka-Dell-XPS-15-9510.554487.0.html)
+### [XPS](https://www.notebookcheck-ru.com/Obzor-noutbuka-Dell-XPS-15-9510.554487.0.html)
 
 ![Notebook](https://www.notebookcheck-ru.com/fileadmin/_processed_/f/3/csm_IMG_1637_00f7ca3dfa.jpg){:class="img-responsive"}
 Максимально соотвествуют термину "MacBook на Windows".
 Отличные экраны с высоким разрешением, клавиатура с небольшим ходом клавиш, максимально похожая на Mac, хороший дизайн, неплохие динамики и куча других достоинств. Как правило, обладают только портами type-c. Рекомендуется не брать самые дешевые младшие модификации, т.к. встречается много брака (впрочем, это касается практически всех производителей).
 
-#### [Latitude](https://www.notebookcheck-ru.com/Obzor-noutbuka-Dell-Latitude-5310.530207.0.html)
+### [Latitude](https://www.notebookcheck-ru.com/Obzor-noutbuka-Dell-Latitude-5310.530207.0.html)
 
 ![Notebook](https://www.notebookcheck-ru.com/fileadmin/Notebooks/Dell/Latitude_13_5310-GXX0D/4zu3_Dell_Latitude_13_5310.jpg){:class="img-responsive"}
 Корпоративная линейка ноутбуков Dell. Здесь всё, как у ThinkPad. Есть и трансформеры. Как правило, тяжелее ноутбуков Lenovo ThinkPad.
 Много хороших моделей разных ценовых категорий, список моделей очень длинный с разными диагоналями экранов. Не прогадаете при покупке любой модификации.
 
-#### [Precision](https://www.notebookcheck-ru.com/Obzor-portativnoi-rabochei-stancii-Dell-Precision-5560-Quadro-RTX-A2000-dlja-uskorenija-renderinga.572185.0.html)
+### [Precision](https://www.notebookcheck-ru.com/Obzor-portativnoi-rabochei-stancii-Dell-Precision-5560-Quadro-RTX-A2000-dlja-uskorenija-renderinga.572185.0.html)
 
 ![Notebook](https://www.notebookcheck-ru.com/fileadmin/Notebooks/Dell/Precision_5000_5560/IMG_20211004_122317_054.jpg){:class="img-responsive"}
 Мощные рабочие станции. Ближайшие аналоги Lenovo ThinkPad P15, P17 и т.п.
 
-### HP
+## HP
 Как и в случае с Lenovo, не стоит брать модели в ценовой категории до 50 т.р.
 
-#### [Envy](https://www.notebookcheck-ru.com/Obzor-noutbuka-HP-Envy-14-2021-Tiger-Lake-16-10-GeForce-GTX-1650-Ti-Max-Q-vsjo-pod-odnoi-kryshkoi.522689.0.html)
+### [Envy](https://www.notebookcheck-ru.com/Obzor-noutbuka-HP-Envy-14-2021-Tiger-Lake-16-10-GeForce-GTX-1650-Ti-Max-Q-vsjo-pod-odnoi-kryshkoi.522689.0.html)
 
 ![Notebook](https://www.notebookcheck-ru.com/fileadmin/Notebooks/HP/Envy_14-eb0010nr/IMG_20210131_212252.jpg){:class="img-responsive"}
 Не самые дорогие и сбалансированные ноутбуки для работы. Довольно усредненные по характеристикам. Максимально универсальные.
 
-#### [Spectre](https://www.notebookcheck-ru.com/Obzor-konvertiruemogo-noutbuka-HP-Spectre-x360-14-Ljubov-s-pervogo-vzgljada.516406.0.html)
+### [Spectre](https://www.notebookcheck-ru.com/Obzor-konvertiruemogo-noutbuka-HP-Spectre-x360-14-Ljubov-s-pervogo-vzgljada.516406.0.html)
 
 ![Notebook](https://www.notebookcheck-ru.com/fileadmin/Notebooks/HP/Spectre_x360_14t-ea000/IMG_20201220_132055.jpg){:class="img-responsive"}
 Линейка ноутбуков-трансформеров с интересным дизайном (обрубленные углы). Универсальные рабочие ноутбуки, ближайшие аналоги Lenovo Yoga 6 и т.п.
 
-#### [Dragonfly](https://www.notebookcheck-ru.com/Obzor-konvertiruemogo-noutbuka-HP-EliteBook-Dragonfly-Max.549367.0.html)
+### [Dragonfly](https://www.notebookcheck-ru.com/Obzor-konvertiruemogo-noutbuka-HP-EliteBook-Dragonfly-Max.549367.0.html)
 
 ![Notebook](https://www.notebookcheck-ru.com/fileadmin/Notebooks/HP/Elite_Dragonfly_Max/IMG_20210602_122756.jpg){:class="img-responsive"}
 Линейка ноутбуков (есть обычные модели и трансформеры) аля Lenovo ThinkPad X1 Carbon. Универсальные рабочие ноутбуки, подойдут тем, кто проводит много времени в разъездах.
 
-#### [EliteBook](https://www.notebookcheck-ru.com/Obzor-noutbuka-HP-EliteBook-840-G9.675581.0.html)
+### [EliteBook](https://www.notebookcheck-ru.com/Obzor-noutbuka-HP-EliteBook-840-G9.675581.0.html)
 
 ![Notebook](https://www.notebookcheck-ru.com/fileadmin/_processed_/8/a/csm_c08154743_969c497eac.png){:class="img-responsive"}
 Корпоративная линейка ноутбуков HP. Есть и трансформеры.
 Список моделей очень длинны. Не прогадаете при покупке любой модификации.
 
-#### [ProBook](https://www.notebookcheck-ru.com/Obzor-delovogo-noutbuka-HP-ProBook-440-G8-Prochnyi-nadjozhnyi-i-s-Tiger-Lake.538560.0.html)
+### [ProBook](https://www.notebookcheck-ru.com/Obzor-delovogo-noutbuka-HP-ProBook-440-G8-Prochnyi-nadjozhnyi-i-s-Tiger-Lake.538560.0.html)
 
 ![Notebook](https://www.notebookcheck-ru.com/fileadmin/_processed_/f/6/csm_HP_ProBook_440_G8_7_e175de8581.jpg){:class="img-responsive"}
 Корпоративная линейка ноутбуков HP.
 
-### LG Gram
+## LG Gram
 
 ![Notebook](https://www.notebookcheck-ru.com/fileadmin/_processed_/4/6/csm_LG_Gram_16_1_260333cae4.jpg){:class="img-responsive"}
 По своему уникальная линейка ноутбуков, которую не всегда просто найти в продаже в РФ.
 Самые легкие ноутбуки на рынке. [14 дюймовая модель](https://www.notebookcheck-ru.com/Noutbuk-LG-Gram-14Z90N-Obzor-ot-Notebookcheck.480869.0.html) весит 1 кг, [15](https://www.notebookcheck-ru.com/Obzor-LG-Gram-15-Sverkhlegkii-noutbuk-s-otlichnym-displeem.512360.0.html) и [16 дюймовая](https://www.notebookcheck-ru.com/Obzor-noutbuka-LG-Gram-16-2022.690358.0.html) - не более 1.3 кг, [17 дюймовая](https://www.notebookcheck-ru.com/Obzor-noutbuka-LG-Gram-17.702114.0.html) - 1.4 кг.
 Для этого пришлось немного пожертвовать жесткостью корпуса (чудес не бывает, увы). Есть модели с сенсорным экраном (трансформеры), которые по весу ближе к обычным ноутбукам - трансформерам других производителей.
 
-### Модели других производителей
+## Модели других производителей
 
-#### [Huawei MateBook X Pro](https://www.notebookcheck-ru.com/Obzor-noutbuka-Huawei-MateBook-X-Pro-2021.530066.0.html), [16S](https://www.notebookcheck.net/Huawei-MateBook-16s-2023-review-Multimedia-laptop-now-with-a-brighter-3-2-display.725878.0.html), [14S](https://www.notebookcheck.net/Huawei-MateBook-14s-i7-Laptop-Review-Powerful-Subnotebook-with-3-2-touchscreen.569394.0.html)
+### [Huawei MateBook X Pro](https://www.notebookcheck-ru.com/Obzor-noutbuka-Huawei-MateBook-X-Pro-2021.530066.0.html), [16S](https://www.notebookcheck.net/Huawei-MateBook-16s-2023-review-Multimedia-laptop-now-with-a-brighter-3-2-display.725878.0.html), [14S](https://www.notebookcheck.net/Huawei-MateBook-14s-i7-Laptop-Review-Powerful-Subnotebook-with-3-2-touchscreen.569394.0.html)
 
 ![Notebook](https://www.notebookcheck-ru.com/fileadmin/Notebooks/Huawei/MateBook_X_Pro_2021/IMG_20210325_140402.jpg){:class="img-responsive"}
 Отличные ноутбуки для работы. Довольно во многом схожи с Apple MacBook. Отличные экраны, встречаются с соотношением сторон 3:2. У некоторых модификаций веб-камера может быть встроена в клавишу клавиатуры, что неудобно. Постарайтесь избегать эти модели.
 
-#### [HONOR MagicBook X16](https://www.notebookcheck.net/Honor-MagicBook-16-2022-review-Good-multimedia-laptop-with-weak-power-adapter.615387.0.html), [X14](https://www.notebookcheck-ru.com/Honor-MagicBook-X-14-i3-10110U.563318.0.html)
+### [HONOR MagicBook X16](https://www.notebookcheck.net/Honor-MagicBook-16-2022-review-Good-multimedia-laptop-with-weak-power-adapter.615387.0.html), [X14](https://www.notebookcheck-ru.com/Honor-MagicBook-X-14-i3-10110U.563318.0.html)
 
 ![Notebook](https://www.notebookcheck.net/fileadmin/_processed_/d/8/csm_IMG_4271_6ba3bfa616.jpg){:class="img-responsive"}
 Отличные ноутбуки для работы. Сложно про них сказать что-то еще. Лучше подавляющего большинства того, что продаёт Acer и Asus в этой же ценовой категории (IMHO).
 
-#### [MSI Modern](https://www.notebookcheck-ru.com/Noutbuk-MSI-Modern-14-Core-i5-10210U-MX250-Obzor-ot-Notebookcheck.451779.0.html)
+### [MSI Modern](https://www.notebookcheck-ru.com/Noutbuk-MSI-Modern-14-Core-i5-10210U-MX250-Obzor-ot-Notebookcheck.451779.0.html)
 
 ![Notebook](https://www.notebookcheck-ru.com/fileadmin/_processed_/4/2/csm_MG_7858_a40f2db080.jpg){:class="img-responsive"}
 Хорошие ноутбуки для работы по адекватной стоимости, ближайшие родственники линейки HP Envy.
