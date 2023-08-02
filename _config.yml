@@ -18,7 +18,7 @@ email: dgorpinchuk@gmail.com
 description: Я разрабатываю проекты в вебе, а также занимаюсь фронт-эндом.
 twitter_username: dimon92
 github_username: dgorpinchuk
-minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 logo:
 
