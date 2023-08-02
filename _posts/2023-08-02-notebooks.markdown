@@ -127,7 +127,7 @@ tags:
 ![Notebook](https://www.notebookcheck-ru.com/fileadmin/Notebooks/Dell/Precision_5000_5560/IMG_20211004_122317_054.jpg){:class="img-responsive"}
 Мощные рабочие станции. Ближайшие аналоги Lenovo ThinkPad P15, P17 и т.п.
 
-## HP
+### HP
 Как и в случае с Lenovo, не стоит брать модели в ценовой категории до 50 т.р.
 
 #### [Envy](https://www.notebookcheck-ru.com/Obzor-noutbuka-HP-Envy-14-2021-Tiger-Lake-16-10-GeForce-GTX-1650-Ti-Max-Q-vsjo-pod-odnoi-kryshkoi.522689.0.html)
@@ -156,14 +156,14 @@ tags:
 ![Notebook](https://www.notebookcheck-ru.com/fileadmin/_processed_/f/6/csm_HP_ProBook_440_G8_7_e175de8581.jpg){:class="img-responsive"}
 Корпоративная линейка ноутбуков HP.
 
-## LG Gram
+### LG Gram
 
 ![Notebook](https://www.notebookcheck-ru.com/fileadmin/_processed_/4/6/csm_LG_Gram_16_1_260333cae4.jpg){:class="img-responsive"}
 По своему уникальная линейка ноутбуков, которую не всегда просто найти в продаже в РФ.
 Самые легкие ноутбуки на рынке. [14 дюймовая модель](https://www.notebookcheck-ru.com/Noutbuk-LG-Gram-14Z90N-Obzor-ot-Notebookcheck.480869.0.html) весит 1 кг, [15](https://www.notebookcheck-ru.com/Obzor-LG-Gram-15-Sverkhlegkii-noutbuk-s-otlichnym-displeem.512360.0.html) и [16 дюймовая](https://www.notebookcheck-ru.com/Obzor-noutbuka-LG-Gram-16-2022.690358.0.html) - не более 1.3 кг, [17 дюймовая](https://www.notebookcheck-ru.com/Obzor-noutbuka-LG-Gram-17.702114.0.html) - 1.4 кг.
 Для этого пришлось немного пожертвовать жесткостью корпуса (чудес не бывает, увы). Есть модели с сенсорным экраном (трансформеры), которые по весу ближе к обычным ноутбукам - трансформерам других производителей.
 
-## Модели других производителей
+### Модели других производителей
 
 #### [Huawei MateBook X Pro](https://www.notebookcheck-ru.com/Obzor-noutbuka-Huawei-MateBook-X-Pro-2021.530066.0.html), [16S](https://www.notebookcheck.net/Huawei-MateBook-16s-2023-review-Multimedia-laptop-now-with-a-brighter-3-2-display.725878.0.html), [14S](https://www.notebookcheck.net/Huawei-MateBook-14s-i7-Laptop-Review-Powerful-Subnotebook-with-3-2-touchscreen.569394.0.html)
 
