@@ -96,13 +96,11 @@ tags:
 
 
 ### ThinkBook
-
 ![Notebook](https://www.notebookcheck-ru.com/fileadmin/_processed_/5/d/csm_ThinkBook_14_9_d92bddd46a.jpg){:class="img-responsive"}
 ![Notebook](https://www.notebookcheck-ru.com/uploads/tx_nbc2/teaser_56.jpg){:class="img-responsive"}
 В этой линейке представлены довольно сбалансированные ноутбуки для любых пользователей. В особенности хочется отметить модель с экраном 14 дюймов ([ThinkBook 14](https://www.notebookcheck-ru.com/Noutbuk-Lenovo-ThinkBook-14-i5-10210U-Obzor-ot-Notebookcheck.456831.0.html) G2 и старше), а также с экраном 16 дюймов ([16p](https://3dnews.ru/1065139/obzor-lenovo-thinkbook-16p-gen-2/page-1.html)). G2, G3 и более старшее поколение Сохранены некоторые фишки линейки ThinkPad, но убран тензометрический джойстик. Есть модели как на Intel, так и на AMD (предпочтительнее).
 
 ### Yoga
-
 ![Notebook](https://www.notebookcheck.net/fileadmin/Notebooks/Lenovo/Yoga_6_13_82ND0009US/IMG_20210710_150015.jpg){:class="img-responsive"}
 ![Notebook](https://www.notebookcheck-ru.com/fileadmin/_processed_/c/4/csm_IMG_5842_2035cabe7e.jpg){:class="img-responsive"}
 Не путать с X1 Yoga! Здесь хочется выделить модели: [Lenovo Yoga 6](https://www.notebookcheck-ru.com/Obzor-noutbuka-Lenovo-Yoga-6-13.551191.0.html), [Lenovo Yoga 7](https://www.notebookcheck-ru.com/Obzor-noutbuka-Lenovo-Yoga-7-14-G7-Multimediinyi-transformer-na-baze-AMD-Ryzen-7-6800U.647051.0.html), и из различные модификации. Это трансформеры, у которых отличный сенсорный экран (имеющий к тому же бОльшую частоту обновления, что будет заметно в плавности работы операционной системы и рисования пером на экране), удобный для использования в режиме планшета округлый корпус и много других достоинств, включая одни из лучших динамиков (благодаря конструкции корпуса, где динамики встроены в шарнир крышки экрана) среди Windows ноутбуков.
