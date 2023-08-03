@@ -26,7 +26,8 @@ logo:
 # Build settings
 locale: "ru-RU"
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+# remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
