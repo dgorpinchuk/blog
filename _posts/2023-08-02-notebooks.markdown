@@ -169,7 +169,7 @@ tags:
 ![Notebook](https://www.notebookcheck-ru.com/fileadmin/_processed_/8/a/csm_c08154743_969c497eac.png){:class="img-responsive"}
 
 Корпоративная линейка ноутбуков HP. Есть и трансформеры.
-Список моделей очень длинны. Не прогадаете при покупке любой модификации.
+Список моделей очень длинный. Не прогадаете при покупке любой модификации.
 
 ### [ProBook](https://www.notebookcheck-ru.com/Obzor-delovogo-noutbuka-HP-ProBook-440-G8-Prochnyi-nadjozhnyi-i-s-Tiger-Lake.538560.0.html)
 
