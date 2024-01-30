@@ -41,14 +41,79 @@
       position: relative;
     }
 
+    button {
+      -webkit-appearance: none;
+      appearance: none;
+      vertical-align: middle;
+      color: inherit;
+      font: inherit;
+      background: transparent;
+      padding: 0;
+      margin: 0;
+      border-radius: 0;
+      text-align: inherit;
+      text-transform: inherit;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    :focus {
+      outline-style: solid;
+      outline-color: transparent;
+    }
+
     #restartButton {
-      padding: 10px 20px;
-      font-size: 16px;
-      background-color: #7160A3;
-      color: white;
-      border: none;
-      border-radius: 5px;
+      position: relative;
+      border: 1px solid currentColor;
+      border-radius: 12px;
+      padding: 16px;
+      transition-property: border-color;
+      transition-duration: .2s;
       cursor: pointer;
+
+      &:hover,
+      &:focus-visible {
+        border-color: transparent;
+
+        &::before {
+          opacity: 1;
+        }
+      }
+
+      &:active {
+        &::after {
+          opacity: 1;
+        }
+      }
+    }
+
+    #restartButton::before,
+    #restartButton::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      border-radius: inherit;
+      opacity: 0;
+      transition-property: opacity;
+    }
+
+    #restartButton::before {
+      box-shadow:
+        0 0 2px #fff,
+        0 -2px 6px #f16427,
+        2px 0 6px #36ff00,
+        -2px 0 6px #e22d91,
+        0 2px 6px #3f2aff;
+      transition-duration: .2s;
+    }
+
+    #restartButton::after {
+      box-shadow:
+        0 0 8px 4px #fff,
+        0 -4px 12px 4px #f16427,
+        0 4px 12px 4px #3f2aff,
+        -4px 0 12px 4px #e22d91,
+        4px 0 12px 4px #aeff26;
+      transition-duration: .4s;
     }
   </style>
 </head>
@@ -65,24 +130,24 @@
     const canvas = document.getElementById("gameCanvas");
     const ctx = canvas.getContext("2d");
 
-    const birdImage = new Image();
-    birdImage.src = 'rocket.svg';
+    const rocketImage = new Image();
+    rocketImage.src = 'rocket.svg';
 
-    let bird = { x: 100, y: canvas.height / 2, width: 40, height: 40, velocity: 0, gravity: 0.05 };  // Adjust width and height for a smaller collision box
+    let rocket = { x: 100, y: canvas.height / 10, width: 50, height: 50, velocity: 0, gravity: 0.1 };  // Adjust width and height for a smaller collision box
     let stars = [];
     let score = 0;
     let isGameOver = false;
 
-    function drawBird() {
+    function drawRocket() {
       ctx.save();
-      ctx.translate(bird.x + bird.width / 2, bird.y + bird.height / 2);
-      ctx.rotate((Math.PI / 180) * bird.velocity * 2);
-      ctx.drawImage(birdImage, -bird.width / 2, -bird.height / 2, bird.width, bird.height);
+      ctx.translate(rocket.x + rocket.width / 2, rocket.y + rocket.height / 2);
+      ctx.rotate((Math.PI / 180) * rocket.velocity * 8);
+      ctx.drawImage(rocketImage, -rocket.width / 2, -rocket.height / 2, rocket.width, rocket.height);
       ctx.restore();
     }
 
     function drawStar(star) {
-      ctx.fillStyle = "rgba(255, 255, 255, 0.5)";
+      ctx.fillStyle = "rgba(255, 239, 178, 0.5)";
       ctx.beginPath();
 
       const angleIncrement = (2 * Math.PI) / star.numAngles;
@@ -112,42 +177,42 @@
       ctx.fillText("Очков: " + score, 10, 30);
     }
 
-    function moveBird() {
-      bird.velocity += bird.gravity;
-      bird.y += bird.velocity;
+    function moveRocket() {
+      rocket.velocity += rocket.gravity;
+      rocket.y += rocket.velocity;
 
-      if (bird.y + bird.height > canvas.height) {
-        bird.y = canvas.height - bird.height;
-        bird.velocity = 0;
+      if (rocket.y + rocket.height > canvas.height) {
+        rocket.y = canvas.height - rocket.height;
+        rocket.velocity = 0;
         if (!isGameOver) {
           endGame();
         }
       }
 
-      if (bird.y < 0) {
-        bird.y = 0;
-        bird.velocity = 0;
+      if (rocket.y < 0) {
+        rocket.y = 0;
+        rocket.velocity = 0;
       }
     }
 
     function generateStars() {
       if (!isGameOver && Math.random() < 0.02) {
-        const starOuterRadius = Math.random() * 15 + 15; // Random outer radius between 10 and 20
-        const starInnerRadius = starOuterRadius / 2;
-        const numAngles = Math.floor(Math.random() * 8) + 7; // Random number of angles between 5 and 12
+        const starOuterRadius = Math.random() * 20 + 20; // Random outer radius between 10 and 20
+        const starInnerRadius = starOuterRadius / 10;
+        const numAngles = Math.floor(Math.random() * 10) + 10; // Random number of angles between 5 and 12
         stars.push({ x: canvas.width, y: Math.random() * canvas.height, outerRadius: starOuterRadius, innerRadius: starInnerRadius, numAngles: numAngles });
       }
     }
 
     function moveStars() {
       for (let i = stars.length - 1; i >= 0; i--) {
-        stars[i].x -= 2; // Adjust star speed
+        stars[i].x -= 3; // Adjust star speed
 
         if (
-          bird.x < stars[i].x + stars[i].outerRadius &&
-          bird.x + bird.width > stars[i].x - stars[i].outerRadius &&
-          bird.y < stars[i].y + stars[i].outerRadius &&
-          bird.y + bird.height > stars[i].y - stars[i].outerRadius
+          rocket.x < stars[i].x + stars[i].outerRadius &&
+          rocket.x + rocket.width > stars[i].x - stars[i].outerRadius &&
+          rocket.y < stars[i].y + stars[i].outerRadius &&
+          rocket.y + rocket.height > stars[i].y - stars[i].outerRadius
         ) {
           endGame();
         }
@@ -168,7 +233,7 @@
     function restartGame() {
       isGameOver = false;
       document.getElementById("gameOver").style.display = "none";
-      bird = { x: 100, y: canvas.height / 2, width: 40, height: 40, velocity: 0, gravity: 0.05 };  // Reset width and height for a smaller collision box
+      rocket = { x: 100, y: canvas.height / 10, width: 50, height: 50, velocity: 0, gravity: 0.1 };  // Reset width and height for a smaller collision box
       stars = [];
       score = 0;
       gameLoop(); // Start the game loop again after restarting
@@ -184,8 +249,8 @@
     function gameLoop() {
       ctx.clearRect(0, 0, canvas.width, canvas.height);
 
-      drawBird();
-      moveBird();
+      drawRocket();
+      moveRocket();
 
       generateStars();
       moveStars();
@@ -200,17 +265,17 @@
 
     document.addEventListener("keydown", function (event) {
       if (!isGameOver && event.keyCode === 32) { // Space key
-        bird.velocity = -2; // Adjust jump strength
+        rocket.velocity = -2; // Adjust jump strength
       }
     });
 
     document.addEventListener("mousedown", function () {
       if (!isGameOver) {
-        bird.velocity = -2; // Adjust jump strength
+        rocket.velocity = -2; // Adjust jump strength
       }
     });
 
-    birdImage.onload = function () {
+    rocketImage.onload = function () {
       resizeCanvas();
       gameLoop();
     };
