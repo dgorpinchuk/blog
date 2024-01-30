@@ -4,7 +4,7 @@ const ctx = canvas.getContext("2d");
 const rocketImage = new Image();
 rocketImage.src = 'img/rocket.svg';
 
-let rocket = { x: 100, y: canvas.height / 10, width: 50, height: 50, velocity: 0, gravity: 0.1 };  // Adjust width and height for a smaller collision box
+let rocket = { x: 100, y: canvas.height / 2, width: 50, height: 50, velocity: 0, gravity: 0.1 };  // Adjust width and height for a smaller collision box
 let stars = [];
 let score = 0;
 let isGameOver = false;
@@ -17,8 +17,15 @@ function drawRocket() {
   ctx.restore();
 }
 
+function getRandomInt(max) {
+  return Math.floor(Math.random() * max);
+}
+
 function drawStar(star) {
-  ctx.fillStyle = "rgba(255, 254, 253, 0.5)";
+  ctx.fillStyle = `rgb(
+          ${Math.floor(255 - 50 * getRandomInt(3))},
+          ${Math.floor(255 - 50 * getRandomInt(3))},
+          255)`;
   ctx.beginPath();
 
   const angleIncrement = (2 * Math.PI) / star.numAngles;
@@ -43,7 +50,7 @@ function drawScore() {
   ctx.fillRect(5, 5, 110, 35); // Adjust the dimensions as needed
 
   // Draw the score label on top of the background
-  ctx.font = "20px Arial";
+  ctx.font = "bold 20px sans";
   ctx.fillStyle = "#fff";
   ctx.fillText("Очков: " + score, 10, 30);
 }
@@ -69,7 +76,7 @@ function moveRocket() {
 function generateStars() {
   if (!isGameOver && Math.random() < 0.02) {
     const starOuterRadius = Math.random() * 20 + 20; // Random outer radius between 10 and 20
-    const starInnerRadius = starOuterRadius / 10;
+    const starInnerRadius = starOuterRadius / 20;
     const numAngles = Math.floor(Math.random() * 10) + 10; // Random number of angles between 5 and 12
     stars.push({ x: canvas.width, y: Math.random() * canvas.height, outerRadius: starOuterRadius, innerRadius: starInnerRadius, numAngles: numAngles });
   }
